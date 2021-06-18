@@ -1,11 +1,11 @@
 def sender_email():
-    return 'mirror010image@gmail.com'
+    return 'abc@gmail.com'
 
 def Receiver_email():
-    return 'manisha001chandra@gmail.com'
+    return 'xyz@gmail.com'
 
 def Password():
-    return 'Swastik#123'
+    return '***********'
 
 def Whatsapp_no():
-    return "+917485078350"
+    return "+91XXXXXXXXXX"
